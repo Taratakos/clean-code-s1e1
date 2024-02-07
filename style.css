@@ -142,7 +142,7 @@ button {
 }
 
 /* Completed */
-.list_completed .list__elem-label {
+.list-completed .list__elem-label {
   text-decoration: line-through;
   color: #888;
 }
